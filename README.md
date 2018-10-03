@@ -12,3 +12,7 @@ sudo apt-get install ghostscript<br>
 # 第四步要在linux上安装filesource模块
   首先进入你下载本库文件的文件夹，之后，运行如下命令:<br>
   npm install filesource -save
+# 第五步要在linux上运行测试
+  首先进入你下载本库文件的文件夹，之后，运行如下命令:<br>
+   node convert.js <br>
+   之后，在test文件夹中，你将看到4张图片，对应pdf的第1，2，3，4页。<br>
