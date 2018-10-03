@@ -7,7 +7,7 @@
   2. 进入下载后的文件夹，比如：/usr/local/pdftopngforLinux<br>
      进入之后，运行： npm install<br>
      这个命令，会安装所需的两个模块tmp及filesource<br>
-  3.本代码是借助Ghostscript实现的，这个Ghostscript需要预先安装，安装方法如下：<br>
+  3. 本代码是借助Ghostscript实现的，这个Ghostscript需要预先安装，安装方法如下：<br>
      sudo apt-get update<br>
      sudo apt-get install ghostscript<br>
   4. 安装完以上两个模块，就可以运行测试了，测试命令如下：<br>
