@@ -14,8 +14,8 @@
       node convert.js<br>
       不出意外的话，你会看到test文件夹下，有4张图片，分别是1.png  2.png  3.png  4.png<br>
  # 说明
-  1. 本文参考的是https://www.npmjs.com/package/pdf2png,
-     或https://github.com/thnew/Pdf2Png
+  1. 本文参考的是https://www.npmjs.com/package/pdf2png,<br>
+     或https://github.com/thnew/Pdf2Png,<br>
      有兴趣的话，可以看看原版。<br>
   2. 有任何问题，可以在issues中提问，也可以联系我，QQ：3207740041<br>
   3. 如果以上帮助到了您，请帮忙打颗星，多谢。
