@@ -8,8 +8,12 @@
      进入之后，运行： npm install<br>
      这个命令，会安装所需的两个模块tmp及filesource<br>
   3. 本代码是借助Ghostscript实现的，这个Ghostscript需要预先安装，安装方法如下：<br>
+     如果是ubuntu安装如下：<br>
      sudo apt-get update<br>
      sudo apt-get install ghostscript<br>
+     如果是centos安装如下：<br>
+     sudo yum update<br>
+     sudo yum install ghostscript<br>   
   4. 安装完以上两个模块，就可以运行测试了，测试命令如下：<br>
       node convert.js<br>
       不出意外的话，你会看到test文件夹下，有4张图片，分别是1.png  2.png  3.png  4.png<br>
